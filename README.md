@@ -6,3 +6,5 @@
   * Properly recorded feedback from the beneficiaries to develop a sence of security, trust and awareness among common people regarding vaccine. 
   * Location based record of beneficiaries to track the spread of the virus and effectiveness of the vaccine.
   * Expert support to address emergency situations if any.
+
+link for figma - https://www.figma.com/file/2yiKYgoVAOanSafT9u2Hp4/Untitled?node-id=0%3A3
