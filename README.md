@@ -7,5 +7,5 @@
   * Location based record of beneficiaries to track the spread of the virus and effectiveness of the vaccine.
   * Expert support to address emergency situations if any.
 
-link for figma - https://www.figma.com/file/2yiKYgoVAOanSafT9u2Hp4/Untitled?node-id=0%3A3
-api using for covid data - https://rapidapi.com/Gramzivi/api/covid-19-data
+*link for figma - https://www.figma.com/file/2yiKYgoVAOanSafT9u2Hp4/Untitled?node-id=0%3A3
+*api using for covid data - https://rapidapi.com/Gramzivi/api/covid-19-data
